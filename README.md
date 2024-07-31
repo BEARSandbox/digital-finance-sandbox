@@ -124,7 +124,7 @@ For testing locally, you can use something like this:
 
 `http://localhost:3000/?assignmentId=ABC&hitId=ABC&workerId=worker123`
 
-If you don't want the website to assume this URL structure, you can update the query string parsing logic in `componentDidMount()` in `client/src/root.jsx`.
+If you don't want the website to assume this URL structure, you can update the query string parsing logic [here](https://github.com/BEARSandbox/digital-finance-sandbox/blob/5c4e1f5d5c1bd4222425593edcb2ad6c59e64f37/client/src/root.jsx#L105).
 
 ### Admin View
 

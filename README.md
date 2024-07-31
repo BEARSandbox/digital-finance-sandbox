@@ -128,7 +128,7 @@ If you don't want the website to assume this URL structure, you can update the q
 
 ### Admin View
 
-You can visit the admin view by navigating to `/admin`. Here, you can explore how elements on the banking website will change, based on the different conditions. You can also download all the user data from here by clicking **"Download CSV Data Files"**.
+You can visit the admin view by navigating to `http://localhost:3000/admin`. Here, you can explore how elements on the banking website will change, based on the different conditions. You can also download all the user data from here by clicking **"Download CSV Data Files"**.
 
 There are two admin users:
 

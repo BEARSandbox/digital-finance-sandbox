@@ -7,7 +7,7 @@ The Digital Finance Sandbox consists of a mock banking website that can be lever
 ### Backend Setup
 
 - The root directory of the repo ( / ) is where a Node.js backend is set up
-- After cloning the repo, cd into the folder
+- After cloning the repo, cd into the folder:
   - `cd abc-bank`
 - At the root of the repo, run `yarn` to install the project dependencies for the backend
 - Once the dependencies have been installed, you will need to configure the environment variables

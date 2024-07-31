@@ -2,6 +2,8 @@
 
 The Digital Finance Sandbox consists of a mock banking website that can be leveraged to study consumer behaviour during the credit card selection process. As participants enter the website (from MTurk), they will be randomly assigned to different conditions, explained in more detail below. Any action that a participant performs on the website will be tracked with detailed metadata, allowing for highly flexible and versatile data analysis across various parameters and dimensions.
 
+<img width="1440" alt="Screenshot 2024-07-31 at 2 54 11 PM" src="https://github.com/user-attachments/assets/536977aa-c60d-4f6a-8a23-39273d8f0725">
+
 ## Development Environment Setup
 
 ### Backend Setup
